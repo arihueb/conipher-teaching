@@ -20,7 +20,6 @@ Rscript ${scriptDir}run_conipher.R \
 --prefix ${prefix} \
 --out_dir ${outDir} \
 --input_tsv_loc ${inputTSV} \
---burn_in 100
 
 # conda deactivate
 
